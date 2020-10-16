@@ -1,0 +1,1 @@
+[![Coverage Status](https://coveralls.io/repos/github/reuseman/calculator-ci/badge.svg?branch=main)](https://coveralls.io/github/reuseman/calculator-ci?branch=main)
