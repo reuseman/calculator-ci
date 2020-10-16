@@ -10,9 +10,11 @@ ConfigArgParse==1.2.3
 configparser==5.0.1
 contextlib2==0.6.0
 coverage==5.3
+coveralls==2.1.2
 dataclasses==0.7
 distlib==0.3.1
 distro==1.4.0
+docopt==0.6.2
 filelock==3.0.12
 flake8==3.8.4
 -e git+https://github.com/Runnerly/flakon.git@f24d300f9d66517e31e9a36128b7cc20d401bebb#egg=flakon
